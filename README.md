@@ -18,7 +18,9 @@ Se realiza el mismo procedimiento, ahora con el archivo de brazo.py
 y se obtiene lo siguiente:
 <img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/dfb06e8b-9d1d-4bb3-b8cb-c195e4ddeccb" />
 ### Bípedo
-Y con la imagen de docker con el archivo bipedo.py obtenemos:
+Se realiza el mismo proceso para el bipedo pero creando un subdirectorio llamado biped donde guardaremos el archivo biped2d.urdf, creamos la imagen y damos permiso
+<img width="1600" height="552" alt="image" src="https://github.com/user-attachments/assets/f4049ac1-2515-491a-b0a6-79e5e199cfd1" />
+Cuando se ejecuta obtenemos:
 <img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/6db8ea1c-ad1e-406d-8b8f-234ddd1e0a14" />
 ## Cómo se dockeriza
 Dockerizar significa preparar un entorno dentro de un contenedor para que un programa pueda ejecutarse sin depender de la configuración del sistema operativo donde esté instalado.
