@@ -13,7 +13,9 @@ En el archivo .zip se encuentra el código en python de cada simulación y sus r
 Después de correr la imagen de docker que contiene el archivo carro.py se observa lo siguiente:
 <img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/91747e6d-c6f5-43e4-8432-83ccdec5235a" />
 ### Brazo
-Se realiza el mismo procedimiento, ahora con el archivo de brazo.py y se obtiene lo siguiente:
+Se realiza el mismo procedimiento, ahora con el archivo de brazo.py
+<img width="1600" height="441" alt="image" src="https://github.com/user-attachments/assets/1bea8e83-22d1-4f84-a579-57b7260c55ed" />
+y se obtiene lo siguiente:
 <img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/dfb06e8b-9d1d-4bb3-b8cb-c195e4ddeccb" />
 ### Bípedo
 Y con la imagen de docker con el archivo bipedo.py obtenemos:
